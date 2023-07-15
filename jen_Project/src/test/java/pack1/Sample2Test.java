@@ -9,6 +9,6 @@ public class Sample2Test {
 	public  void m2() {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.flipkart.com/");
-			}
-
+		//push
+	}
 }

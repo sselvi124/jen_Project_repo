@@ -7,5 +7,11 @@ public class Sample1Test {
 	public void m1() {
 		System.out.println("hello");
 	}
+	
+	
+	@Test
+	public void z1() {
+		System.out.println("z1 how r u?");
+	}
 
 }
